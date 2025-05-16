@@ -3,4 +3,6 @@ Here are all the electronic componnents you will need for this project.
 2.Kitronik Move Mini Board.You can use other boards just like with the micro controllers but you should probably change the 3D printed file to fit the board.https://www.bing.com/ck/a?!&&p=1343b2dd1d7ff2534b9f6c28c590df8d6129059968a702dbb3dbf17cbf4b11e4JmltdHM9MTc0NzM1MzYwMA&ptn=3&ver=2&hsh=4&fclid=331abe67-e9f4-6be0-08fa-aba6e8346aad&psq=kitronik+move+mini+board&u=a1aHR0cHM6Ly9raXRyb25pay5jby51ay9wcm9kdWN0cy81NjIzLXNlcnZvbGl0ZS1ib2FyZC1mb3ItbW92ZS1taW5p&ntb=1
 3.Kitronik 360 degrees Servo Motor.You will actually need two of them.https://www.bing.com/ck/a?!&&p=1343b2dd1d7ff2534b9f6c28c590df8d6129059968a702dbb3dbf17cbf4b11e4JmltdHM9MTc0NzM1MzYwMA&ptn=3&ver=2&hsh=4&fclid=331abe67-e9f4-6be0-08fa-aba6e8346aad&psq=kitronik+move+mini+board&u=a1aHR0cHM6Ly9raXRyb25pay5jby51ay9wcm9kdWN0cy81NjIzLXNlcnZvbGl0ZS1ib2FyZC1mb3ItbW92ZS1taW5p&ntb=1
 4.A high speed DC Motor(I got mine from a Twodots Keos Drone)You can use others also.
-5.
+5.Cables.You can use whichever cables you have.
+6.lastly,you will need some kind of adapter to turn the aligator clips from the Servos to the clips tha the board takes.I just cut my aligator clips and put normal servo clips, which you can find very easily on any electronics e-shop or sites like Amazon.
+
